@@ -283,14 +283,6 @@ The application uses Socket.io for real-time communication. Connected clients re
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-For support, email support@stocksync.com or open an issue in the repository.
-
 ---
 
 **Last Updated**: February 8, 2026
